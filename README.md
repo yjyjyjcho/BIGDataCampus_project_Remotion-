@@ -9,10 +9,14 @@
 
 이를 재현시켜주는 카페추천 시스템 ReEmotion
 
+# 기술적 개요
+
 instagram SNS 게시글을 skbrain_kobert로 감성분석하여 감성데이터를 만든다.
 
 적절한 샘플링을 거친 감성데이터 기반으로 rating table을 만들고 이를 MF 기반 CF 추천시스템으로 구현한다.
 
 CBF기반으로 다양한 카페 피처들을 내포시키고 CBF, CF를 가중치 기반 하이브리드 추천시스템화 시킨다.
+
+# 포트폴리오
 
 https://github.com/yjyjyjcho/BIGDataCampus_project_Remotion-/files/5660502/_._._.pdf
